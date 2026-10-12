@@ -1,0 +1,11 @@
+# Arduino & Embedded C/C++ .gitignore
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+build/
+.vscode/
+.idea/
+*~
+*.swp
